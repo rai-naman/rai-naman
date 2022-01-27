@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rai-naman
+- 👀 I’m interested in Data Science, ML (& TinyML), AI Solutions.
+- 🌱 I’m currently learning EnergySegmentation and TinyML.
+- 💞️ I’m looking to collaborate on RealityAI projects
+- 📫 How to reach me nmolri@reality.ai/ Insta: namanmolri
